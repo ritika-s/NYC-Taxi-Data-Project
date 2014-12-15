@@ -26,5 +26,5 @@ What are the Carbon Emissions by taxis over the year?
 Is there a patterns in Revenue made by Vendor throughout the year?
 
 
-Please find the Visualisations, HIVE queries, MapReduce python scripts in the respective folders.
+Please find the Visualisations, HIVE queries, MapReduce python scripts in the ViznScripts folder
 
