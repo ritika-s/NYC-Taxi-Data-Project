@@ -23,8 +23,6 @@ Are there regions where the taxi density is always high (or low)?
 
 What are the Carbon Emissions by taxis over the year?
 
-Does the Taxi Density change by closing down of Fort Lee Lane Closure Scandal?
-
 Is there a patterns in Revenue made by Vendor throughout the year?
 
 
